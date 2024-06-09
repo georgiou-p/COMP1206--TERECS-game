@@ -26,5 +26,4 @@ TetrECS is a fast-paced game where you face the challenge of placing falling blo
 **Getting Started:**
  In order to run this appliction you need to be connected to University of Southmapton server.
 
-To begin your TetrECS journey, clone the provided skeleton application and demo from the provided Git repositories. Familiarize yourself with the components and follow the coursework guide to implement each section.
 
